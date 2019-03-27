@@ -258,6 +258,7 @@ h2 {
     display: none;
 }
 
+/* Controls delete button hover and click */
 .item__delete--btn:focus { outline: none; }
 .item__delete--btn:active { transform: translateY(2px); }
 
